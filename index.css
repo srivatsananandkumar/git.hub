@@ -126,6 +126,9 @@ p{
 
     color : wheat;
 }
+li:active{
+  color : rgba(255, 166, 0, 0.779)
+}
 
 .para{
     text-decoration: underline
